@@ -26,3 +26,6 @@ BL (couleur blanche) :
 
 carr (couleur noire):
 - Esteban
+
+Vidéo du projet :
+- https://www.youtube.com/watch?v=lXr4AICSt8g&ab_channel=EstEsc
