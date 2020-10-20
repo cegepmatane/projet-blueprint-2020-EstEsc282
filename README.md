@@ -3,6 +3,9 @@
 git commit -m "first commit"
 git push -u origin master
 
+Lien du projet blueprint compresser:
+- https://drive.google.com/drive/folders/1wjk8oBYx3-MdN1LIgpAcBJZ7qvst0_GE
+
 Torch : 
 - Sketchfab.com
 - https://sketchfab.com/3d-models/torch-d47f1a85c4c846a392cc1d1afca15295
